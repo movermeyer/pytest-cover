@@ -47,15 +47,15 @@ pytest-cover
     :alt: PyPI Package monthly downloads
     :target: https://pypi.python.org/pypi/pytest-cover
 
-.. |wheel| image:: https://pypip.in/wheel/pytest-cover/badge.svg?style=flat
+.. |wheel| image:: https://img.shields.io/pypi/wheel/pytest-cover.svg?style=flat
     :alt: PyPI Wheel
     :target: https://pypi.python.org/pypi/pytest-cover
 
-.. |supported-versions| image:: https://pypip.in/py_versions/pytest-cover/badge.svg?style=flat
+.. |supported-versions| image:: https://img.shields.io/pypi/pyversions/pytest-cover.svg?style=flat
     :alt: Supported versions
     :target: https://pypi.python.org/pypi/pytest-cover
 
-.. |supported-implementations| image:: https://pypip.in/implementation/pytest-cover/badge.svg?style=flat
+.. |supported-implementations| image:: https://img.shields.io/pypi/implementation/pytest-cover.svg?style=flat
     :alt: Supported imlementations
     :target: https://pypi.python.org/pypi/pytest-cover
 
